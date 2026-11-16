@@ -1,0 +1,5 @@
+OpenRecorder-v3-debug.apk
+SHA-256: c714b966db32240c154af00713658da89bd4ec808a5bb8be968335b6d0a2bd8d
+
+This checksum identifies the APK supplied for the V3 iteration.
+The APK binary has not yet been uploaded to this repository or to a GitHub Release.
